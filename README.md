@@ -1,5 +1,4 @@
-
-           ![Design and development](https://github.com/kibson/kibson/blob/main/pat.jpg)
+![Design and development](https://github.com/kibson/kibson/blob/main/pat.jpg)
 
 ### Ngetich Benard
 ___________________________________________________________________________________________________________________________________________________________________________________
