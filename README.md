@@ -2,7 +2,6 @@
 ![Design and development](https://github.com/kibson/Vehicle-Booking-System/blob/master/cccc.jpg)
 
 ### Ngetich Benard
-#### Design and development
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 Experienced software engineer with a passion for developing innovative applications that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. A skilled leader who has the proven ability to motivate, educate, and manage a team of professionals to build software programs and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success
@@ -10,11 +9,6 @@ Experienced software engineer with a passion for developing innovative applicati
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kibson)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kibson-ngetich/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kngetich)  
 
 #### Skills and Experience
-  - Android
-  - Flutter
-  - Java
-  - Php
-  - Html
-  - Sql
-  - Js
-  - CSS
+  - Android         - Flutter      - Java
+  - Php             - Html         - Sql
+  - Js              - CSS
