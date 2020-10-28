@@ -15,7 +15,7 @@ Experienced software engineer with a passion for developing innovative applicati
 
 ## Top Skills and Experience
 
-  - Android         - Flutter      - Java    - Php             - Html         - Sql   - Js              - CSS
+  - Android  - Flutter  - Java    - Php  - Lavarel - Codeigniter  - Html  - Sql   - Js  - CSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kibson)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kibson-ngetich/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kngetich)  
