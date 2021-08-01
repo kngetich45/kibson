@@ -5,12 +5,12 @@ ________________________________________________________________________________
 
 Experienced software engineer with a passion for developing innovative applications that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. A skilled leader who has the proven ability to motivate, educate, and manage a team of professionals to build software programs and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success
 
-## Example of work
+## Portfolio
 
 
 <a href="https://play.google.com/store/apps/details?id=com.kibsonapp.comedyhub">PlayStore Link</a>
 
-<a href="https://github.com/kibson?tab=repositories">Example web systems Link</a>
+<a href="https://kngetich.co.ke/">Portfolio Link</a>
 
 
 ## Top Skills and Experience
