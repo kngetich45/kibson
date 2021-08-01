@@ -7,10 +7,7 @@ Experienced software engineer with a passion for developing innovative applicati
 
 ## Portfolio
 
-
-<a href="https://play.google.com/store/apps/details?id=com.kibsonapp.comedyhub">PlayStore Link</a>
-
-<a href="https://kngetich.co.ke/">Portfolio Link</a>
+ <a href="https://kngetich.co.ke/">Portfolio Link</a>
 
 
 ## Top Skills and Experience
